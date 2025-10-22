@@ -87,7 +87,7 @@ This project is perfect for practicing **React**, **Next.js**, **TypeScript**, *
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Passionate about interactive UI & modern web stores  
 
 ---
